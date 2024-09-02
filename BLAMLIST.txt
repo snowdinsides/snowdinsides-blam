@@ -1,6 +1,9 @@
 // NOTE:
 // The order should be USERNAME [linebreak] // REASON  [linebreak] URL
 
+sunny_is_funny
+// minor, 13 in april
+https://vrchat.com/home/user/usr_f022f644-77eb-44cf-87a6-dc0c87c3a07d
 
 Stampthefish 1137
 // nsfw emojis
