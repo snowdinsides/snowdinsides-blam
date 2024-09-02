@@ -25,10 +25,6 @@ Just_Hero_Here 2380
 // nsfw emojis
 https://vrchat.com/home/user/usr_51f0eb74-3531-413f-a8c6-4309c62f2380
 
-jester09
-// nsfw emojis
-https://vrchat.com/home/user/usr_c7877d7c-68e0-41da-b985-1c19ac054974
-
 'Вiscuit'
 // added pre-merge
 https://vrchat.com/home/user/usr_314dd672-7162-41e4-b93d-ca9e1e80441f
